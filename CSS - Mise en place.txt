@@ -1,0 +1,18 @@
+Mise en place du CSS
+
+Mettre en couleur :
+
+p 
+{
+    color: blue;
+}
+
+Mettre en couleur grâce au classes :
+
+.nom_de_ta_classe
+{
+    color: blue;
+}
+
+après ds ton html tu appelles ta classe :
+<p class="nom_de_ta_classe">Bonjour et bienvenue sur mon site !</p>
