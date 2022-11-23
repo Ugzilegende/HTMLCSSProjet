@@ -1,0 +1,11 @@
+p
+{
+    font-size: x-large; /* Paragraphes de 14 pixels */
+    font-family : 'Arial Black',
+}
+h1
+{
+    font-size: 40px; /* Titres de 40 pixels */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
